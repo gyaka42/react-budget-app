@@ -1,0 +1,49 @@
+{
+  "expenses": [
+    {
+      "id": "1",
+      "price": 2000,
+      "place": "A&H",
+      "date": "2023-01-25",
+      "title": "haftalik market",
+      "description": "yag bile almadik !",
+      "categoryId": "1"
+    },
+    {
+      "id": "2",
+      "price": 52000,
+      "place": "MediaMarkt",
+      "date": "2023-01-25",
+      "title": "iPhone 14 Pro MAX",
+      "description": "Patron Cildirdi !",
+      "categoryId": "4"
+    },
+    {
+      "price": "400",
+      "place": "D&R",
+      "title": "Kitap",
+      "description": "Kitaplarda pahali oldu",
+      "date": "2023-01-20",
+      "categoryId": "4",
+      "id": "1674987623088"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Market"
+    },
+    {
+      "id": "2",
+      "name": "Giyim"
+    },
+    {
+      "id": "3",
+      "name": "Eglence"
+    },
+    {
+      "id": "4",
+      "name": "Elektronik"
+    }
+  ]
+}

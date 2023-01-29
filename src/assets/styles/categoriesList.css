@@ -1,0 +1,35 @@
+.categoriesContainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.categoriesWrapper{
+ 
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-radius: 5px;
+    background: rgba(0, 0, 0, 0.05);
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.4);
+}
+
+.categoriesItem{
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 5px 20px;
+    border-radius: 5px;
+    transition: all 0.2s ease-in-out;
+}
+
+.categoriesItem:hover{
+    background-color: rgba(0, 0, 0, 0.2);
+    transform: scale(1.025);
+}
+
+.categoriesItemActive{
+    background-color: rgba(0, 0, 0, 0.2);
+}

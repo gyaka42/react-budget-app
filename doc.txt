@@ -1,0 +1,16 @@
+BUDGET APP UDEMIG
+
+A. Dependencies:
+    1: Json-Server +
+    2: Axios +
+    3: Style will be Custom
+    4: May be React Router Dom?
+
+b. Scenario
+    1: An app where use can have overview of his expenses
+    2: The expenses will be categorized
+    3: User will be able to add/delete and update catergory`S
+    4: User will be able to add/delete and update expenses
+    5: Needed info when adding amount:
+        a. amount*, catergory*, place, date*, title, description
+    6: reports ?
