@@ -10,15 +10,6 @@
       "categoryId": "1"
     },
     {
-      "id": "2",
-      "price": 52000,
-      "place": "MediaMarkt",
-      "date": "2023-01-25",
-      "title": "iPhone 14 Pro MAX",
-      "description": "Patron Cildirdi !",
-      "categoryId": "4"
-    },
-    {
       "price": "400",
       "place": "D&R",
       "title": "Kitap",
@@ -26,6 +17,24 @@
       "date": "2023-01-20",
       "categoryId": "4",
       "id": "1674987623088"
+    },
+    {
+      "price": "500",
+      "place": "A101",
+      "title": "Sut",
+      "description": "pahali olmus",
+      "date": "2023-01-20",
+      "categoryId": "4",
+      "id": "1674989764448"
+    },
+    {
+      "price": "500",
+      "place": "Teknosa",
+      "title": "Kulaklik",
+      "description": "Cok ucuza denk geldi",
+      "date": "2023-01-20",
+      "categoryId": "4",
+      "id": "1674990560160"
     }
   ],
   "categories": [

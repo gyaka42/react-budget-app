@@ -23,7 +23,7 @@ const Header = ({ whichPage }) => {
         <div className="logoWrapper">
           <img src={logo} alt="" />
         </div>
-        <h1>Big Expenses Overview</h1>
+        <h1>Expenses Overview</h1>
       </div>
     </div>
   );
